@@ -1,5 +1,8 @@
 # gustara_assignment
 
+## Loom Link 
+https://www.loom.com/share/b672f6ce3dcb4f49807f02f523815ef3?sid=6e985aa6-10da-4c9b-b6b4-8269ebe7eddd
+
 ## Prerequisites
 
 - Node.js (v14 or later)
